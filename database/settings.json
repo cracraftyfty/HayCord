@@ -1,0 +1,36 @@
+{
+    "guild_ID": "711488702781718550",
+    "emotes": {
+        "check": "<a:dpscheck:979699381659910214>",
+        "wrong": "<a:dpswrong:979699382091927655>",
+        "loading": "<a:dpsload:979699380384845834>",
+        "warn": "<:dpserror:979699379512426536>",
+        "blue_beacon": "<a:abort:980822891144839248>",
+        "red_beacon": "<a:STOP:980821755813842974>"
+    },
+    "cost_exclusions": [
+        "bolt",
+        "plank",
+        "duct tape",
+        "nail",
+        "screw",
+        "wooden panel",
+        "mallet",
+        "land deed",
+        "marker stake",
+        "map piece",
+        "hammer",
+        "hand drill",
+        "paint bucket",
+        "stone block",
+        "brick",
+        "tar bucket",
+        "help",
+        "saw",
+        "axe",
+        "shovel",
+        "tnt barrel",
+        "dynamite",
+        "pickaxe"
+    ]
+}

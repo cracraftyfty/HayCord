@@ -1,0 +1,4166 @@
+{
+    "barn expansion material": {
+        "level": 1,
+        "menu_description": "Bolts, Planks and Duct Tape",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "bolt": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            },
+            "plank": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            },
+            "duct tape": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            }
+        }
+    },
+    "silo expansion material": {
+        "level": 1,
+        "menu_description": "Nails, Screws and Wooden Panels",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "nail": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            },
+            "screw": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            },
+            "wooden panel": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            }
+        }
+    },
+    "land expansion material": {
+        "level": 1,
+        "menu_description": "Mallets, Marker Stakes and Land Deeds",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "mallet": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 403,
+                "exp_earned": 0
+            },
+            "marker stake": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 403,
+                "exp_earned": 0
+            },
+            "land deed": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 403,
+                "exp_earned": 0
+            }
+        }
+    },
+    "town expansion material": {
+        "level": 1,
+        "menu_description": "Map Piece, Hammer, Hand Drill, Paint Bucket , Stone Block and Brick",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "map piece": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 450,
+                "exp_earned": 0
+            },
+            "hammer": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 342,
+                "exp_earned": 0
+            },
+            "hand drill": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 342,
+                "exp_earned": 0
+            },
+            "paint bucket": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 342,
+                "exp_earned": 0
+            },
+            "stone block": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 342,
+                "exp_earned": 0
+            },
+            "brick": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 342,
+                "exp_earned": 0
+            },
+            "tar bucket": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 342,
+                "exp_earned": 0
+            }
+        }
+    },
+    "misc": {
+        "level": 1,
+        "menu_description": "Saws, Axes and Helps",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "saw": {
+                "level": 5,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 54,
+                "exp_earned": 0
+            },
+            "axe": {
+                "level": 5,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 36,
+                "exp_earned": 0
+            },
+            "help": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 300,
+                "exp_earned": 0
+            }
+        }
+    },
+    "bakery": {
+        "level": 2,
+        "menu_description": "Breads, Cookies, Muffins and Pizzas",
+        "build_cost": 20,
+        "time_to_finish_construction": "",
+        "exp_given": 3,
+        "production_slots": 2,
+        "mastery": {
+            "1star": {
+                
+            },
+            "2star": {
+                
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "bread": {
+                "level": 2,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 21,
+                "exp_earned": 0
+            },
+            "corn bread": {
+                "level": 7,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 72,
+                "exp_earned": 0
+            },
+            "cookie": {
+                "level": 10,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 104,
+                "exp_earned": 0
+            },
+            "raspberry muffin": {
+                "level": 19,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 140,
+                "exp_earned": 0
+            },
+            "blackberry muffin": {
+                "level": 26,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 226,
+                "exp_earned": 0
+            },
+            "pizza": {
+                "level": 33,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 190,
+                "exp_earned": 0
+            },
+            "spicy pizza": {
+                "level": 37,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 226,
+                "exp_earned": 0
+            },
+            "potato bread": {
+                "level": 39,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 284,
+                "exp_earned": 0
+            },
+            "frutti di mare pizza": {
+                "level": 45,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 403,
+                "exp_earned": 0
+            },
+            "gingerbread cookie": {
+                "level": 86,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 273,
+                "exp_earned": 0
+            },
+            "banana bread": {
+                "level": 91,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 424,
+                "exp_earned": 0
+            },
+            "macaroon": {
+                "level": 101,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 421,
+                "exp_earned": 0
+            }
+        }
+    },
+    "feed mill": {
+        "level": 3,
+        "menu_description": "Animal Feeds",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "chicken feed": {
+                "level": 3,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 7,
+                "exp_earned": 0
+            },
+            "cow feed": {
+                "level": 6,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 14,
+                "exp_earned": 0
+            },
+            "pig feed": {
+                "level": 10,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 14,
+                "exp_earned": 0
+            },
+            "sheep feed": {
+                "level": 16,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 14,
+                "exp_earned": 0
+            },
+            "goat feed": {
+                "level": 32,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 14,
+                "exp_earned": 0
+            },
+            "wheat bundle": {
+                "level": "REP_3",
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 50,
+                "exp_earned": 0
+            },
+            "meat bucket": {
+                "level": "REP_3",
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 72,
+                "exp_earned": 0
+            }
+        }
+    },
+    "dairy": {
+        "level": 6,
+        "menu_description": "Cream, Butter, Cheese and Goat Cheese",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "cream": {
+                "level": 6,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 50,
+                "exp_earned": 0
+            },
+            "butter": {
+                "level": 9,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 82,
+                "exp_earned": 0
+            },
+            "cheese": {
+                "level": 12,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 122,
+                "exp_earned": 0
+            },
+            "goat cheese": {
+                "level": 33,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 162,
+                "exp_earned": 0
+            }
+        }
+    },
+    "sugar mill": {
+        "level": 7,
+        "menu_description": "Brown Sugar, White Sugar and Syrup",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "brown sugar": {
+                "level": 7,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 32,
+                "exp_earned": 0
+            },
+            "white sugar": {
+                "level": 13,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 50,
+                "exp_earned": 0
+            },
+            "syrup": {
+                "level": 18,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 90,
+                "exp_earned": 0
+            }
+        }
+    },
+    "popcorn pot": {
+        "level": 8,
+        "menu_description": "Popcorns and Snack Mix",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "popcorn": {
+                "level": 8,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 32,
+                "exp_earned": 0
+            },
+            "buttered popcorn": {
+                "level": 16,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 126,
+                "exp_earned": 0
+            },
+            "chilli popcorn": {
+                "level": 25,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 122,
+                "exp_earned": 0
+            },
+            "honey popcorn": {
+                "level": 40,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 360,
+                "exp_earned": 0
+            },
+            "chocolate popcorn": {
+                "level": 44,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 248,
+                "exp_earned": 0
+            },
+            "snack mix": {
+                "level": 64,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 309,
+                "exp_earned": 0
+            }
+        }
+    },
+    "bbq grill": {
+        "level": 9,
+        "menu_description": "Pancakes, Burgers, Bacon & Eggs, Baked Potato, etc",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "pancake": {
+                "level": 9,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 108,
+                "exp_earned": 0
+            },
+            "bacon and eggs": {
+                "level": 11,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 201,
+                "exp_earned": 0
+            },
+            "hamburger": {
+                "level": 18,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 180,
+                "exp_earned": 0
+            },
+            "fish burger": {
+                "level": 27,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 226,
+                "exp_earned": 0
+            },
+            "roasted tomatoes": {
+                "level": 30,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 118,
+                "exp_earned": 0
+            },
+            "baked potato": {
+                "level": 35,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 298,
+                "exp_earned": 0
+            },
+            "fish and chips": {
+                "level": 41,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 244,
+                "exp_earned": 0
+            },
+            "lobster skewer": {
+                "level": 48,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 417,
+                "exp_earned": 0
+            },
+            "garlic bread": {
+                "level": 60,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 198,
+                "exp_earned": 0
+            },
+            "grilled onion": {
+                "level": 68,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 190,
+                "exp_earned": 0
+            },
+            "winter veggies": {
+                "level": 72,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 198,
+                "exp_earned": 0
+            },
+            "stuffed peppers": {
+                "level": 80,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 352,
+                "exp_earned": 0
+            },
+            "grilled eggplant": {
+                "level": 90,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 324,
+                "exp_earned": 0
+            },
+            "banana pancakes": {
+                "level": 94,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 352,
+                "exp_earned": 0
+            },
+            "fish skewer": {
+                "level": 96,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 176,
+                "exp_earned": 0
+            }
+        }
+    },
+    "pie oven": {
+        "level": 14,
+        "menu_description": "Pies, Tarts, Parmesan and Casserole",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "carrot pie": {
+                "level": 14,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 82,
+                "exp_earned": 0
+            },
+            "pumpkin pie": {
+                "level": 15,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 158,
+                "exp_earned": 0
+            },
+            "bacon pie": {
+                "level": 18,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 219,
+                "exp_earned": 0
+            },
+            "apple pie": {
+                "level": 28,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            },
+            "fish pie": {
+                "level": 28,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 226,
+                "exp_earned": 0
+            },
+            "feta pie": {
+                "level": 34,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 223,
+                "exp_earned": 0
+            },
+            "casserole": {
+                "level": 36,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 367,
+                "exp_earned": 0
+            },
+            "shepards pie": {
+                "level": 39,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 280,
+                "exp_earned": 0
+            },
+            "chocolate pie": {
+                "level": 65,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 514,
+                "exp_earned": 0
+            },
+            "lemon pie": {
+                "level": 67,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 446,
+                "exp_earned": 0
+            },
+            "peach tart": {
+                "level": 76,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 435,
+                "exp_earned": 0
+            },
+            "passion fruit pie": {
+                "level": 92,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 111,
+                "exp_earned": 0
+            },
+            "mushroom pot pie": {
+                "level": 97,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 162,
+                "exp_earned": 0
+            },
+            "eggplant parmesan": {
+                "level": 99,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 442,
+                "exp_earned": 0
+            }
+        }
+    },
+    "loom": {
+        "level": 17,
+        "menu_description": "Sweaters, Cotton Fabric, Hats, Scarfs and Shawl ",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "sweater": {
+                "level": 17,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 151,
+                "exp_earned": 0
+            },
+            "cotton fabric": {
+                "level": 18,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 108,
+                "exp_earned": 0
+            },
+            "blue wooly hat": {
+                "level": 19,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 111,
+                "exp_earned": 0
+            },
+            "blue sweater": {
+                "level": 20,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 208,
+                "exp_earned": 0
+            },
+            "red scarf": {
+                "level": 48,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 288,
+                "exp_earned": 0
+            },
+            "flower shawl": {
+                "level": 71,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 295,
+                "exp_earned": 0
+            }
+        }
+    },
+    "sewing machine": {
+        "level": 19,
+        "menu_description": "Shirts, Chaps, Dress, Pillow and Blankets",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "cotton shirt": {
+                "level": 19,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 241,
+                "exp_earned": 0
+            },
+            "wooly chaps": {
+                "level": 21,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 209,
+                "exp_earned": 0
+            },
+            "violet dress": {
+                "level": 25,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 327,
+                "exp_earned": 0
+            },
+            "pillow": {
+                "level": 51,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 676,
+                "exp_earned": 0
+            },
+            "blanket": {
+                "level": 59,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 1098,
+                "exp_earned": 0
+            }
+        }
+    },
+    "cake oven": {
+        "level": 21,
+        "menu_description": "Cakes and Rolls",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "carrot cake": {
+                "level": 21,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 165,
+                "exp_earned": 0
+            },
+            "cream cake": {
+                "level": 23,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 219,
+                "exp_earned": 0
+            },
+            "red berry cake": {
+                "level": 23,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 255,
+                "exp_earned": 0
+            },
+            "cheese cake": {
+                "level": 24,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 284,
+                "exp_earned": 0
+            },
+            "strawberry cake": {
+                "level": 25,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 316,
+                "exp_earned": 0
+            },
+            "chocolate cake": {
+                "level": 26,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 320,
+                "exp_earned": 0
+            },
+            "potato feta cake": {
+                "level": 38,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 309,
+                "exp_earned": 0
+            },
+            "honey apple cake": {
+                "level": 42,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 482,
+                "exp_earned": 0
+            },
+            "fancy cake": {
+                "level": 54,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 450,
+                "exp_earned": 0
+            },
+            "pineapple cake": {
+                "level": 65,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 259,
+                "exp_earned": 0
+            },
+            "lemon cake": {
+                "level": 68,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 869,
+                "exp_earned": 0
+            },
+            "fruit cake": {
+                "level": 89,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 450,
+                "exp_earned": 0
+            },
+            "chocolate roll": {
+                "level": 95,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 604,
+                "exp_earned": 0
+            },
+            "pomegranate cake": {
+                "level": 108,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 316,
+                "exp_earned": 0
+            }
+        }
+    },
+    "mine": {
+        "level": 24,
+        "menu_description": "Ores and Mining Equipment",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "dynamite": {
+                "level": 5,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 25,
+                "exp_earned": 0
+            },
+            "tnt barrel": {
+                "level": 5,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 72,
+                "exp_earned": 0
+            },
+            "shovel": {
+                "level": 5,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 108,
+                "exp_earned": 0
+            },
+            "pickaxe": {
+                "level": 34,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 126,
+                "exp_earned": 0
+            },
+            "silver ore": {
+                "level": 24,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 18,
+                "exp_earned": 0
+            },
+            "gold ore": {
+                "level": 24,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 21,
+                "exp_earned": 0
+            },
+            "platinum ore": {
+                "level": 25,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 32,
+                "exp_earned": 0
+            },
+            "coal": {
+                "level": 33,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 10,
+                "exp_earned": 0
+            },
+            "iron ore": {
+                "level": 34,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 14,
+                "exp_earned": 0
+            }
+        }
+    },
+    "smelter": {
+        "level": 24,
+        "menu_description": "Resource Bars",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "silver bar": {
+                "level": 24,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 147,
+                "exp_earned": 0
+            },
+            "gold bar": {
+                "level": 25,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 180,
+                "exp_earned": 0
+            },
+            "platinum bar": {
+                "level": 25,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 205,
+                "exp_earned": 0
+            },
+            "refined coal": {
+                "level": 33,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 108,
+                "exp_earned": 0
+            },
+            "iron bar": {
+                "level": 34,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 129,
+                "exp_earned": 0
+            }
+        }
+    },
+    "juice press": {
+        "level": 26,
+        "menu_description": "Juices",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "carrot juice": {
+                "level": 26,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 46,
+                "exp_earned": 0
+            },
+            "apple juice": {
+                "level": 28,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 129,
+                "exp_earned": 0
+            },
+            "cherry juice": {
+                "level": 30,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 216,
+                "exp_earned": 0
+            },
+            "tomato juice": {
+                "level": 31,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 162,
+                "exp_earned": 0
+            },
+            "berry juice": {
+                "level": 31,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 205,
+                "exp_earned": 0
+            },
+            "pineapple juice": {
+                "level": 52,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 68,
+                "exp_earned": 0
+            },
+            "orange juice": {
+                "level": 71,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 234,
+                "exp_earned": 0
+            },
+            "grape juice": {
+                "level": 84,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 104,
+                "exp_earned": 0
+            },
+            "passion fruit juice": {
+                "level": 88,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 64,
+                "exp_earned": 0
+            },
+            "watermelon juice": {
+                "level": 92,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 108,
+                "exp_earned": 0
+            },
+            "mango juice": {
+                "level": 97,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 230,
+                "exp_earned": 0
+            },
+            "guava juice": {
+                "level": 104,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 252,
+                "exp_earned": 0
+            }
+        }
+    },
+    "icecream maker": {
+        "level": 29,
+        "menu_description": "Ice Creams, Popsicle and Milkshakes",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "vanilla ice cream": {
+                "level": 29,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 172,
+                "exp_earned": 0
+            },
+            "cherry popsicle": {
+                "level": 33,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 352,
+                "exp_earned": 0
+            },
+            "strawberry ice cream": {
+                "level": 34,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 331,
+                "exp_earned": 0
+            },
+            "chocolate ice cream": {
+                "level": 39,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 342,
+                "exp_earned": 0
+            },
+            "sesame ice cream": {
+                "level": 50,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 176,
+                "exp_earned": 0
+            },
+            "peanut butter milkshake": {
+                "level": 68,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 619,
+                "exp_earned": 0
+            },
+            "orange sorbet": {
+                "level": 78,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 399,
+                "exp_earned": 0
+            },
+            "affogato": {
+                "level": 78,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 435,
+                "exp_earned": 0
+            },
+            "peach ice cream": {
+                "level": 83,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 450,
+                "exp_earned": 0
+            },
+            "mint ice cream": {
+                "level": 85,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 288,
+                "exp_earned": 0
+            },
+            "banana split": {
+                "level": 96,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 403,
+                "exp_earned": 0
+            },
+            "coconut ice cream": {
+                "level": 102,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 320,
+                "exp_earned": 0
+            },
+            "fruit sorbet": {
+                "level": 106,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 518,
+                "exp_earned": 0
+            }
+        }
+    },
+    "jam maker": {
+        "level": 35,
+        "menu_description": "Jams",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "apple jam": {
+                "level": 35,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 219,
+                "exp_earned": 0
+            },
+            "raspberry jam": {
+                "level": 36,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 252,
+                "exp_earned": 0
+            },
+            "blackberry jam": {
+                "level": 37,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 388,
+                "exp_earned": 0
+            },
+            "cherry jam": {
+                "level": 38,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 334,
+                "exp_earned": 0
+            },
+            "strawberry jam": {
+                "level": 50,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            },
+            "marmalade": {
+                "level": 74,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 457,
+                "exp_earned": 0
+            },
+            "peach jam": {
+                "level": 79,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 464,
+                "exp_earned": 0
+            },
+            "grape jam": {
+                "level": 85,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 162,
+                "exp_earned": 0
+            },
+            "plum jam": {
+                "level": 94,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 385,
+                "exp_earned": 0
+            },
+            "passion fruit jam": {
+                "level": 96,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 118,
+                "exp_earned": 0
+            }
+        }
+    },
+    "jeweler": {
+        "level": 38,
+        "menu_description": "Variety of Jewelries",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "bracelet": {
+                "level": 38,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 514,
+                "exp_earned": 0
+            },
+            "necklace": {
+                "level": 39,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 727,
+                "exp_earned": 0
+            },
+            "diamond ring": {
+                "level": 40,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 824,
+                "exp_earned": 0
+            },
+            "iron bracelet": {
+                "level": 41,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 658,
+                "exp_earned": 0
+            },
+            "flower pendant": {
+                "level": 98,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 698,
+                "exp_earned": 0
+            }
+        }
+    },
+    "honey extractor": {
+        "level": 39,
+        "menu_description": "Honey and Beeswax",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "honey": {
+                "level": 39,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 154,
+                "exp_earned": 0
+            },
+            "beeswax": {
+                "level": 48,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 234,
+                "exp_earned": 0
+            }
+        }
+    },
+    "coffee kiosk": {
+        "level": 42,
+        "menu_description": "Latte, Mocha, Espresso and Hot Chocolate",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "espresso": {
+                "level": 42,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 248,
+                "exp_earned": 0
+            },
+            "caffe latte": {
+                "level": 43,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 219,
+                "exp_earned": 0
+            },
+            "caffe mocha": {
+                "level": 45,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 291,
+                "exp_earned": 0
+            },
+            "raspberry mocha": {
+                "level": 46,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 259,
+                "exp_earned": 0
+            },
+            "hot chocolate": {
+                "level": 47,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 316,
+                "exp_earned": 0
+            },
+            "caramel latte": {
+                "level": 62,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 345,
+                "exp_earned": 0
+            },
+            "iced banana latte": {
+                "level": 88,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 277,
+                "exp_earned": 0
+            }
+        }
+    },
+    "lobster pool": {
+        "level": 44,
+        "menu_description": "Lobster Tails",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "lobster tail": {
+                "level": 44,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 201,
+                "exp_earned": 0
+            }
+        }
+    },
+    "soup kitchen": {
+        "level": 46,
+        "menu_description": "Soups",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "lobster soup": {
+                "level": 46,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 612,
+                "exp_earned": 0
+            },
+            "tomato soup": {
+                "level": 47,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 478,
+                "exp_earned": 0
+            },
+            "pumpkin soup": {
+                "level": 49,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 392,
+                "exp_earned": 0
+            },
+            "fish soup": {
+                "level": 53,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 298,
+                "exp_earned": 0
+            },
+            "cabbage soup": {
+                "level": 65,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            },
+            "onion soup": {
+                "level": 72,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 327,
+                "exp_earned": 0
+            },
+            "noodle soup": {
+                "level": 73,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 432,
+                "exp_earned": 0
+            },
+            "potato soup": {
+                "level": 78,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 255,
+                "exp_earned": 0
+            },
+            "bell pepper soup": {
+                "level": 81,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 439,
+                "exp_earned": 0
+            },
+            "broccoli soup": {
+                "level": 87,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 237,
+                "exp_earned": 0
+            },
+            "mushroom soup": {
+                "level": 104,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 176,
+                "exp_earned": 0
+            }
+        }
+    },
+    "candle maker": {
+        "level": 48,
+        "menu_description": "Candles",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "strawberry candle": {
+                "level": 48,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 370,
+                "exp_earned": 0
+            },
+            "raspberry candle": {
+                "level": 52,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 360,
+                "exp_earned": 0
+            },
+            "lemon candle": {
+                "level": 72,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 457,
+                "exp_earned": 0
+            },
+            "colorful candles": {
+                "level": 84,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 324,
+                "exp_earned": 0
+            },
+            "floral candle": {
+                "level": 95,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 442,
+                "exp_earned": 0
+            }
+        }
+    },
+    "flower shop": {
+        "level": 49,
+        "menu_description": "Bouquets and Flowers",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "rustic bouquet": {
+                "level": 49,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 208,
+                "exp_earned": 0
+            },
+            "bright bouquet": {
+                "level": 65,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 338,
+                "exp_earned": 0
+            },
+            "gracious bouquet": {
+                "level": 73,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 500,
+                "exp_earned": 0
+            },
+            "candy bouquet": {
+                "level": 90,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 554,
+                "exp_earned": 0
+            },
+            "birthday bouquet": {
+                "level": 92,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 349,
+                "exp_earned": 0
+            },
+            "soft bouquet": {
+                "level": 93,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 298,
+                "exp_earned": 0
+            },
+            "veggie bouquet": {
+                "level": 106,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 352,
+                "exp_earned": 0
+            }
+        }
+    },
+    "duck salon": {
+        "level": 50,
+        "menu_description": "Duck Feathers",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "duck feather": {
+                "level": 50,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 140,
+                "exp_earned": 0
+            }
+        }
+    },
+    "candy machine": {
+        "level": 51,
+        "menu_description": "Candies, Toffee, Lollipops and Jelly Beans",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "caramel apple": {
+                "level": 51,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 255,
+                "exp_earned": 0
+            },
+            "toffee": {
+                "level": 52,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 176,
+                "exp_earned": 0
+            },
+            "chocolate": {
+                "level": 54,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 460,
+                "exp_earned": 0
+            },
+            "lollipop": {
+                "level": 57,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 342,
+                "exp_earned": 0
+            },
+            "jelly beans": {
+                "level": 60,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 684,
+                "exp_earned": 0
+            },
+            "honey peanuts": {
+                "level": 63,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 468,
+                "exp_earned": 0
+            },
+            "cotton candy": {
+                "level": 75,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 226,
+                "exp_earned": 0
+            },
+            "sesame brittle": {
+                "level": 78,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            }
+        }
+    },
+    "sauce maker": {
+        "level": 54,
+        "menu_description": "Sauces, Curds, Dips and Oils",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "soy sauce": {
+                "level": 54,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 154,
+                "exp_earned": 0
+            },
+            "olive oil": {
+                "level": 60,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 277,
+                "exp_earned": 0
+            },
+            "mayonnaise": {
+                "level": 62,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 367,
+                "exp_earned": 0
+            },
+            "lemon curd": {
+                "level": 66,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 378,
+                "exp_earned": 0
+            },
+            "olive dip": {
+                "level": 66,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 468,
+                "exp_earned": 0
+            },
+            "tomato sauce": {
+                "level": 69,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 230,
+                "exp_earned": 0
+            },
+            "salsa": {
+                "level": 77,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 252,
+                "exp_earned": 0
+            },
+            "hummus": {
+                "level": 95,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 277,
+                "exp_earned": 0
+            },
+            "tart dressing": {
+                "level": 100,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 288,
+                "exp_earned": 0
+            }
+        }
+    },
+    "sushi bar": {
+        "level": 56,
+        "menu_description": "Sushi and Rolls",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "sushi roll": {
+                "level": 56,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 489,
+                "exp_earned": 0
+            },
+            "lobster sushi": {
+                "level": 59,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 637,
+                "exp_earned": 0
+            },
+            "egg sushi": {
+                "level": 63,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 550,
+                "exp_earned": 0
+            },
+            "big sushi roll": {
+                "level": 76,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 648,
+                "exp_earned": 0
+            },
+            "rice ball": {
+                "level": 110,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 464,
+                "exp_earned": 0
+            }
+        }
+    },
+    "salad bar": {
+        "level": 58,
+        "menu_description": "Salads and Coleslaw",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "feta salad": {
+                "level": 58,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 745,
+                "exp_earned": 0
+            },
+            "blt salad": {
+                "level": 62,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 723,
+                "exp_earned": 0
+            },
+            "seafood salad": {
+                "level": 64,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 763,
+                "exp_earned": 0
+            },
+            "pasta salad": {
+                "level": 67,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 759,
+                "exp_earned": 0
+            },
+            "veggie platter": {
+                "level": 74,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 266,
+                "exp_earned": 0
+            },
+            "coleslaw": {
+                "level": 75,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 468,
+                "exp_earned": 0
+            },
+            "beetroot salad": {
+                "level": 76,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 234,
+                "exp_earned": 0
+            },
+            "summer rolls": {
+                "level": 78,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 316,
+                "exp_earned": 0
+            },
+            "fruit salad": {
+                "level": 82,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 597,
+                "exp_earned": 0
+            },
+            "summer salad": {
+                "level": 84,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 554,
+                "exp_earned": 0
+            },
+            "mushroom salad": {
+                "level": 89,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 216,
+                "exp_earned": 0
+            }
+        }
+    },
+    "sandwich bar": {
+        "level": 61,
+        "menu_description": "Bagels, Toasts and Sandwiches",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "veggie bagel": {
+                "level": 61,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 532,
+                "exp_earned": 0
+            },
+            "bacon toast": {
+                "level": 65,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 648,
+                "exp_earned": 0
+            },
+            "egg sandwich": {
+                "level": 66,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 583,
+                "exp_earned": 0
+            },
+            "honey toast": {
+                "level": 69,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 255,
+                "exp_earned": 0
+            },
+            "peanut butter and jelly sandwich": {
+                "level": 71,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 601,
+                "exp_earned": 0
+            },
+            "cucumber sandwich": {
+                "level": 79,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 464,
+                "exp_earned": 0
+            },
+            "onion melt": {
+                "level": 84,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 417,
+                "exp_earned": 0
+            },
+            "goat cheese toast": {
+                "level": 92,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 302,
+                "exp_earned": 0
+            },
+            "hummus wrap": {
+                "level": 109,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 374,
+                "exp_earned": 0
+            }
+        }
+    },
+    "smoothie mixer": {
+        "level": 64,
+        "menu_description": "Smoothies",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "berry smoothie": {
+                "level": 64,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 547,
+                "exp_earned": 0
+            },
+            "green smoothie": {
+                "level": 66,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 320,
+                "exp_earned": 0
+            },
+            "yogurt smoothie": {
+                "level": 70,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 349,
+                "exp_earned": 0
+            },
+            "cucumber smoothie": {
+                "level": 70,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 266,
+                "exp_earned": 0
+            },
+            "mixed smoothie": {
+                "level": 88,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 504,
+                "exp_earned": 0
+            },
+            "black sesame smoothie": {
+                "level": 93,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 313,
+                "exp_earned": 0
+            },
+            "cocoa smoothie": {
+                "level": 100,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 511,
+                "exp_earned": 0
+            },
+            "plum smoothie": {
+                "level": 102,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 522,
+                "exp_earned": 0
+            },
+            "tropical smoothie": {
+                "level": 104,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 475,
+                "exp_earned": 0
+            }
+        }
+    },
+    "pasta maker": {
+        "level": 67,
+        "menu_description": "Pastas and Noodles",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "fresh pasta": {
+                "level": 67,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 43,
+                "exp_earned": 0
+            },
+            "rice noodles": {
+                "level": 73,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 100,
+                "exp_earned": 0
+            }
+        }
+    },
+    "wok kitchen": {
+        "level": 69,
+        "menu_description": "Fried Rice, Spicy Fish, Peanut Noodles, etc",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "fried rice": {
+                "level": 69,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 205,
+                "exp_earned": 0
+            },
+            "spicy fish": {
+                "level": 79,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 543,
+                "exp_earned": 0
+            },
+            "peanut noodles": {
+                "level": 86,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 597,
+                "exp_earned": 0
+            },
+            "tofu stir fry": {
+                "level": 89,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 306,
+                "exp_earned": 0
+            }
+        }
+    },
+    "hat maker": {
+        "level": 70,
+        "menu_description": "Hats and Flower Crown",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "cloche hat": {
+                "level": 70,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 468,
+                "exp_earned": 0
+            },
+            "top hat": {
+                "level": 72,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 619,
+                "exp_earned": 0
+            },
+            "sun hat": {
+                "level": 74,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 558,
+                "exp_earned": 0
+            },
+            "flower crown": {
+                "level": 86,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 331,
+                "exp_earned": 0
+            }
+        }
+    },
+    "pasta kitchen": {
+        "level": 72,
+        "menu_description": "Pastas, Lasagna and Carbonara",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "gnocchi": {
+                "level": 72,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 475,
+                "exp_earned": 0
+            },
+            "veggie lasagna": {
+                "level": 74,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 532,
+                "exp_earned": 0
+            },
+            "lobster pasta": {
+                "level": 79,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 637,
+                "exp_earned": 0
+            },
+            "pasta carbonara": {
+                "level": 83,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 410,
+                "exp_earned": 0
+            },
+            "broccoli pasta": {
+                "level": 83,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 345,
+                "exp_earned": 0
+            },
+            "spicy pasta": {
+                "level": 87,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 576,
+                "exp_earned": 0
+            },
+            "mushroom pasta": {
+                "level": 101,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 280,
+                "exp_earned": 0
+            }
+        }
+    },
+    "hot dog stand": {
+        "level": 75,
+        "menu_description": "Hot Dogs",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "hot dog": {
+                "level": 75,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 370,
+                "exp_earned": 0
+            },
+            "tofu dog": {
+                "level": 76,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 367,
+                "exp_earned": 0
+            },
+            "corn dog": {
+                "level": 78,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 529,
+                "exp_earned": 0
+            },
+            "onion dog": {
+                "level": 80,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 306,
+                "exp_earned": 0
+            }
+        }
+    },
+    "donut maker": {
+        "level": 76,
+        "menu_description": "Donuts",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "plain donut": {
+                "level": 76,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 129,
+                "exp_earned": 0
+            },
+            "sprinkled donut": {
+                "level": 79,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 313,
+                "exp_earned": 0
+            },
+            "crunchy donut": {
+                "level": 82,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 594,
+                "exp_earned": 0
+            },
+            "cream donut": {
+                "level": 86,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 230,
+                "exp_earned": 0
+            },
+            "bacon donut": {
+                "level": 88,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 388,
+                "exp_earned": 0
+            },
+            "filled donut": {
+                "level": 93,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 403,
+                "exp_earned": 0
+            }
+        }
+    },
+    "taco kitchen": {
+        "level": 77,
+        "menu_description": "Tacos, Nachos and Quesadillas",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "taco": {
+                "level": 77,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 396,
+                "exp_earned": 0
+            },
+            "fish taco": {
+                "level": 79,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 392,
+                "exp_earned": 0
+            },
+            "quesadilla": {
+                "level": 82,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 241,
+                "exp_earned": 0
+            },
+            "nachos": {
+                "level": 87,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 432,
+                "exp_earned": 0
+            }
+        }
+    },
+    "tea stand": {
+        "level": 80,
+        "menu_description": "Teas",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "green tea": {
+                "level": 80,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 241,
+                "exp_earned": 0
+            },
+            "milk tea": {
+                "level": 81,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 190,
+                "exp_earned": 0
+            },
+            "honey tea": {
+                "level": 83,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 313,
+                "exp_earned": 0
+            },
+            "lemon tea": {
+                "level": 86,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 241,
+                "exp_earned": 0
+            },
+            "apple ginger tea": {
+                "level": 88,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 169,
+                "exp_earned": 0
+            },
+            "orange tea": {
+                "level": 89,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 255,
+                "exp_earned": 0
+            },
+            "iced tea": {
+                "level": 92,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 252,
+                "exp_earned": 0
+            },
+            "mint tea": {
+                "level": 97,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 255,
+                "exp_earned": 0
+            },
+            "pomegranate tea": {
+                "level": 107,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 313,
+                "exp_earned": 0
+            }
+        }
+    },
+    "fondue pot": {
+        "level": 81,
+        "menu_description": "Fondues",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "chocolate fondue": {
+                "level": 81,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 626,
+                "exp_earned": 0
+            },
+            "bacon fondue": {
+                "level": 86,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 507,
+                "exp_earned": 0
+            },
+            "cheese fondue": {
+                "level": 91,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 493,
+                "exp_earned": 0
+            },
+            "tropical fondue": {
+                "level": 100,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 417,
+                "exp_earned": 0
+            }
+        }
+    }, 
+    "bath kiosk": {
+        "level": 84,
+        "menu_description": "Honey Soap, Lemon Lotion, Honey Mask, etc",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "honey soap": {
+                "level": 84,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 327,
+                "exp_earned": 0
+            },
+            "lemon lotion": {
+                "level": 84,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 403,
+                "exp_earned": 0
+            },
+            "exfoliating soap": {
+                "level": 93,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 363,
+                "exp_earned": 0
+            },
+            "honey mask": {
+                "level": 99,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 320,
+                "exp_earned": 0
+            }
+        }
+    },
+    "deep fryer": {
+        "level": 87,
+        "menu_description": "Fries, Pies, Poppers, Falafel and Samosas",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "bacon fries": {
+                "level": 87,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 302,
+                "exp_earned": 0
+            },
+            "hand pies": {
+                "level": 91,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 215,
+                "exp_earned": 0
+            },
+            "chilli poppers": {
+                "level": 98,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 406,
+                "exp_earned": 0
+            },
+            "falafel": {
+                "level": 98,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 226,
+                "exp_earned": 0
+            },
+            "fried candy bar": {
+                "level": 100,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 658,
+                "exp_earned": 0
+            },
+            "samosa": {
+                "level": 103,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 223,
+                "exp_earned": 0
+            }
+        }
+    },
+    "preservation station": {
+        "level": 91,
+        "menu_description": "Pickles, Canned Fish, Kimchi and Dried Fruit",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "pickles": {
+                "level": 91,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 270,
+                "exp_earned": 0
+            },
+            "canned fish": {
+                "level": 95,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 471,
+                "exp_earned": 0
+            },
+            "kimchi": {
+                "level": 98,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 216,
+                "exp_earned": 0
+            },
+            "dried fruit": {
+                "level": 102,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 266,
+                "exp_earned": 0
+            },
+            "guava compote": {
+                "level": 104,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 421,
+                "exp_earned": 0
+            }
+        }
+    },
+    "pottery studio": {
+        "level": 94,
+        "menu_description": "Tea Pot, Potted Plant and Clay Mug",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "tea pot": {
+                "level": 94,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 219,
+                "exp_earned": 0
+            },
+            "potted plant": {
+                "level": 96,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 151,
+                "exp_earned": 0
+            },
+            "clay mug": {
+                "level": 99,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 212,
+                "exp_earned": 0
+            }
+        }
+    },
+    "fudge shop": {
+        "level": 99,
+        "menu_description": "Fudges",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "rich fudge": {
+                "level": 99,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 644,
+                "exp_earned": 0
+            },
+            "mint fudge": {
+                "level": 102,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 522,
+                "exp_earned": 0
+            },
+            "chili fudge": {
+                "level": 104,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 540,
+                "exp_earned": 0
+            },
+            "lemon fudge": {
+                "level": 108,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 590,
+                "exp_earned": 0
+            },
+            "peanut fudge": {
+                "level": 111,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 1141,
+                "exp_earned": 0
+            }
+        }
+    },
+    "yogurt maker": {
+        "level": 103,
+        "menu_description": "Yogurts",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "plain yogurt": {
+                "level": 103,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 234,
+                "exp_earned": 0
+            },
+            "strawberry yogurt": {
+                "level": 105,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 529,
+                "exp_earned": 0
+            },
+            "tropical yogurt": {
+                "level": 109,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 457,
+                "exp_earned": 0
+            }
+        }
+    },
+    "stew pot": {
+        "level": 106,
+        "menu_description": "Stews",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "chickpea stew": {
+                "level": 106,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 284,
+                "exp_earned": 0
+            },
+            "chili stew": {
+                "level": 109,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 370,
+                "exp_earned": 0
+            },
+            "winter stew": {
+                "level": 112,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 295,
+                "exp_earned": 0
+            }
+        }
+    },
+    "cupcake maker": {
+        "level": 109,
+        "menu_description": "Cupcakes",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "plain cupcake": {
+                "level": 109,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 280,
+                "exp_earned": 0
+            },
+            "guava cupcake": {
+                "level": 109,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 583,
+                "exp_earned": 0
+            },
+            "tropical cupcake": {
+                "level": 112,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 572,
+                "exp_earned": 0
+            },
+            "cookie cupcake": {
+                "level": 114,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 712,
+                "exp_earned": 0
+            }
+        }
+    },
+    "waffle maker": {
+        "level": 114,
+        "menu_description": "Plain Waffles and Berry Waffles",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "plain waffles": {
+                "level": 114,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 198,
+                "exp_earned": 0
+            },
+            "berry waffles": {
+                "level": 114,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 604,
+                "exp_earned": 0
+            }
+        }
+    },
+    "animals": {
+        "level": 1,
+        "menu_description": "Animal Products",
+        "build_cost": 0,
+        "time_to_finish_construction": "",
+        "exp_given": 0,
+        "production_slots": 0,
+        "mastery": {
+            "1star": {
+
+            },
+            "2star": {
+
+            },
+            "3star": {
+                
+            }
+        },
+        "upgrade_slots": [],
+        "items": {
+            "eggs": {
+                "level": 1,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 18,
+                "exp_earned": 0
+            },
+            "milk": {
+                "level": 6,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 32,
+                "exp_earned": 0
+            },
+            "bacon": {
+                "level": 10,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 50,
+                "exp_earned": 0
+            },
+            "wool": {
+                "level": 16,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 54,
+                "exp_earned": 0
+            },
+            "goat milk": {
+                "level": 32,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 64,
+                "exp_earned": 0
+            },
+            "duck feather": {
+                "level": 50,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 140,
+                "exp_earned": 0
+            },
+            "fish fillet": {
+                "level": 27,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 54,
+                "exp_earned": 0
+            },
+            "honeycomb": {
+                "level": 39,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 68,
+                "exp_earned": 0
+            },
+            "lobster tail": {
+                "level": 44,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 201,
+                "exp_earned": 0
+            },
+            "peanuts": {
+                "level": 62,
+                "production_time": "",
+                "emote": "<:Bread:1095390527853166684>",
+                "3star_production_time": "",
+                "diamond_boost_cost": 0,
+                "price_to_sell": 234,
+                "exp_earned": 0
+            }
+            
+        }
+    }
+}
